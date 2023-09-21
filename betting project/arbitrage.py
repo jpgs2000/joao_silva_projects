@@ -276,7 +276,7 @@ for i in range (20):
             send_mail(message)
 
 
-    #
+    #eliminate games with no information and format the odds so that they all have the same format and save each set of odds and games in a dataFrame for each bookmaker.
     teams_bwin = [f'{game[0][0]} {game[0][1]}' for game in bwin if (game[0][0] != "" and game[0][1] != "") and (game[1][0] != "" and game[1][1] != "" and game[1][2] != "")]
     teams_betclic = [f'{game[0][0]} {game[0][1]}' for game in betclic]
     teams_betano = [f'{game[0][0]} {game[0][1]}' for game in betano]
@@ -296,13 +296,13 @@ for i in range (20):
     teams_2 = teams_betclic
     teams_3 = teams_betano
 
-
-    #games_betano[['Teams_matched_betano_betclic', 'Score_betano_betclic']] = games_betano['teams'].apply(lambda x:process.extractOne(x, teams_2, scorer=fuzz.partial_ratio)).apply(pd.Series)
-    #games_bwin[['Teams_matched_bwin_betclic', 'Score_bwin_betclic']] = games_bwin['teams'].apply(lambda x:process.extractOne(x, teams_2, scorer=fuzz.partial_ratio)).apply(pd.Series)
-    #games_bwin[['Teams_matched_bwin_betano', 'Score_bwin_betano']] = games_bwin['teams'].apply(lambda x:process.extractOne(x, teams_3, scorer=fuzz.partial_ratio)).apply(pd.Series)
+    #based on the similarity between the different team names that each bookmaker presents, add up the odds of the different games from each different pair of bookmakers.
+    games_betano[['Teams_matched_betano_betclic', 'Score_betano_betclic']] = games_betano['teams'].apply(lambda x:process.extractOne(x, teams_2, scorer=fuzz.partial_ratio)).apply(pd.Series)
+    games_bwin[['Teams_matched_bwin_betclic', 'Score_bwin_betclic']] = games_bwin['teams'].apply(lambda x:process.extractOne(x, teams_2, scorer=fuzz.partial_ratio)).apply(pd.Series)
+    games_bwin[['Teams_matched_bwin_betano', 'Score_bwin_betano']] = games_bwin['teams'].apply(lambda x:process.extractOne(x, teams_3, scorer=fuzz.partial_ratio)).apply(pd.Series)
     
 
-
+    #we merge the odds of the games of the different bookmaker based of their similarity
     df_bwin_betclic = pd.merge(games_bwin, games_betclic, left_on='Teams_matched_bwin_betclic', right_on='teams')
     df_bwin_betano = pd.merge(games_bwin, games_betano, left_on='Teams_matched_bwin_betano', right_on='teams')
     df_betano_betclic = pd.merge(games_betano, games_betclic, left_on='Teams_matched_betano_betclic', right_on='teams')
@@ -316,7 +316,7 @@ for i in range (20):
     df_betano_betclic = df_betano_betclic[df_betano_betclic['Score_betano_betclic']>70]
     df_betano_betclic = df_betano_betclic[['teams_x', 'odds_x', 'teams_y', 'odds_y']]
 
-
+    #at the end we find surebet using the function find_surebet and finally we use the function display_results to send the emails with the opportunities.
     df_surebet_betano_betclic = find_surebet(df_betano_betclic)
     df_surebet_bwin_betano = find_surebet(df_bwin_betano)
     df_surebet_bwin_betclic = find_surebet(df_bwin_betclic)
