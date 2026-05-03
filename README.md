@@ -1,11 +1,115 @@
-Hi, my name is João Pedro Silva, and I'm studying Physics Engineering at the University of Lisbon in Portugal. My interests are in programming, especially Python, Physics, and Math. 
-In this repository, I will show you 6 Python projects that I have been working on over time:
-- Inside the folder **simulation spring** is a program that simulates a physics system with three balls connected with strings between two walls. The animation's result is saved as a **.gif** file.
-- The folder **arbitrage betting** contains a project that gets the games and respective odds from three bookmakers and tries to find arbitrage opportunities.
-- Inside the folder **twitter_classification_project** is a Machine Learning project from a Codecademy course that analyzes a series of data from different tweets and users. I tried to predict whether a person is popular based on some information about the user's profile.
-- In the file **euromillions.ipynb** I created a simulation of the EuroMillions lottery to test two strategies: keeping the guess for each bet, and changing the guess.
-- Inside the file **grasping_analysis.ipynb** I created two classes to calculate, using the **Sympy** library, two important matrices, and their respective Null and Column spaces for grasping analysis of robotic hands.
-- Finally, in the file **neural_networks.ipynb**, I create two types of Neural Networks using the Numpy library with just one hidden layer: one has just one output, and the other can have several outputs. This project not only helped me better understand how neural networks work and how they make predictions, but it also allowed me to expand my knowledge of the following libraries: NumPy, scikit-learn, and Pandas
+# João Silva – Python Projects Portfolio
+
+Hi, I'm João Pedro Silva, a recent Master's graduate in Engineering Physics from the University of Lisbon.
+
+I am passionate about programming (especially Python), Machine Learning, Physics, and Mathematics. This repository showcases a collection of projects I developed to explore problem-solving, data analysis, simulations, and intelligent systems.
+
+---
+
+## 🚀 Projects Overview
+
+### 🔹 Arbitrage Betting System
+
+**Technologies:** Python
+
+* Developed a program that collects odds from multiple bookmakers
+* Identifies arbitrage opportunities across different games
+* Applies data comparison logic to detect risk-free betting scenarios
+
+👉 Demonstrates: problem-solving, data processing, algorithmic thinking
+
+---
+
+### 🔹 Twitter Popularity Classification
+
+**Technologies:** Python, Scikit-learn, Pandas
+
+* Built a machine learning model to predict whether a user is popular
+* Used profile and tweet data as input features
+* Applied classification algorithms and data preprocessing techniques
+
+👉 Demonstrates: machine learning, data analysis, predictive modeling
+
+---
+
+### 🔹 Physics Simulation – Spring System
+
+**Technologies:** Python, NumPy, Matplotlib
+
+* Simulated a physical system with three masses connected by springs between two fixed walls
+* Generated an animated visualization of the system dynamics (.gif output)
+* Applied physics modeling and numerical simulation techniques
+
+👉 Demonstrates: simulation, mathematical modeling, visualization
+
+---
+
+### 🔹 EuroMillions Strategy Simulation
+
+**Technologies:** Python
+
+* Simulated different lottery strategies
+* Compared fixed vs changing number strategies
+* Analyzed outcomes statistically over multiple runs
+
+👉 Demonstrates: probability, simulation, analytical thinking
+
+---
+
+### 🔹 Robotic Grasping Analysis
+
+**Technologies:** Python, SymPy
+
+* Implemented tools to compute grasping matrices for robotic hands
+* Calculated null space and column space for grasp analysis
+* Applied linear algebra to robotics problems
+
+👉 Demonstrates: robotics, mathematical modeling, symbolic computation
+
+---
+
+### 🔹 Neural Networks from Scratch
+
+**Technologies:** Python, NumPy
+
+* Implemented neural networks without high-level frameworks
+* Built models with single and multiple outputs
+* Explored how neural networks learn and make predictions
+
+👉 Demonstrates: deep understanding of ML fundamentals, algorithm design
+
+---
+
+## 🧠 Key Skills Demonstrated
+
+* Python Programming
+* Machine Learning (Scikit-learn, basic neural networks)
+* Data Analysis & Processing
+* Mathematical Modeling & Simulation
+* Problem Solving & Algorithm Design
+
+---
+
+## 📌 About Me
+
+I am particularly interested in:
+
+* Machine Learning and Artificial Intelligence
+* Automation and intelligent systems
+* Simulation and applied mathematics
+* Real-world problem solving using data and programming
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [jpgs.joaosilva@gmail.com](mailto:jpgs.joaosilva@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/joao-pedro-silva-1737471a9
+
+---
+
+⭐ Feel free to explore the projects and reach out!
+
 
 
 
