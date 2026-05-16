@@ -18,7 +18,7 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 ### 📷 Project Images
 
-![CAD Model](3D printing/Headlight cover/Images/CAD Model.png)
+![CAD Model](3D printing/Headlight cover/Images/CAD_Model.png)
 
 ### PLA
 
