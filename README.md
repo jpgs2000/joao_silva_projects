@@ -1,14 +1,59 @@
-# João Silva – Python Projects Portfolio
+# João Silva – Engineering & Robotics Portfolio
 
 Hi, I'm João Pedro Silva, a recent Master's graduate in Engineering Physics from the University of Lisbon.
 
-I am passionate about programming (especially Python), Machine Learning, Physics, and Mathematics. This repository showcases a collection of projects I developed to explore problem-solving, data analysis, simulations, and intelligent systems.
+I am passionate about robotics, programming, product development, 3D design, and applied physics. This repository showcases a collection of projects developed throughout my academic and personal journey, including machine learning applications, simulations, CAD modelling, and 3D printing projects.
 
 ---
 
-## 🚀 Projects Overview
+# 🚀 Projects Overview
 
-### 🔹 Arbitrage Betting System
+## 🔹 3D Printed Jeep Headlight Protective Cover
+
+**Technologies:** SOLIDWORKS, 3D Printing (PLA / PETG)
+
+* Designed a protective cover for a jeep headlight using SOLIDWORKS
+* Developed the geometry considering fitting constraints and outdoor usage
+* Printed and tested prototypes using both PLA and PETG materials
+* Explored material differences regarding strength and durability
+
+### 📷 Project Images
+
+<!-- Add SOLIDWORKS screenshots here -->
+
+![CAD Model](images/jeep_cover_cad.png)
+
+<!-- Add printed prototype photos here -->
+
+![Printed Part](images/jeep_cover_print.jpg)
+
+👉 Demonstrates: CAD modelling, rapid prototyping, mechanical design, iterative design process
+
+---
+
+## 🔹 3D Printed Jewelry Box
+
+**Technologies:** Blender, 3D Printing
+
+* Designed a custom jewelry storage box using Blender to explore a different 3D modelling workflow
+* Developed the model considering printability and assembly dimensions
+* Manufactured prototypes using a personal 3D printer
+
+### 📷 Project Images
+
+<!-- Add Blender screenshots/renders here -->
+
+![Blender Model](images/jewelry_box_blender.png)
+
+<!-- Add printed prototype photos here -->
+
+![Printed Jewelry Box](images/jewelry_box_print.jpg)
+
+👉 Demonstrates: 3D modelling, creativity, prototyping, adaptability to new design tools
+
+---
+
+## 🔹 Arbitrage Betting System
 
 **Technologies:** Python
 
@@ -20,7 +65,7 @@ I am passionate about programming (especially Python), Machine Learning, Physics
 
 ---
 
-### 🔹 Twitter Popularity Classification
+## 🔹 Twitter Popularity Classification
 
 **Technologies:** Python, Scikit-learn, Pandas
 
@@ -32,7 +77,7 @@ I am passionate about programming (especially Python), Machine Learning, Physics
 
 ---
 
-### 🔹 Physics Simulation – Spring System
+## 🔹 Physics Simulation – Spring System
 
 **Technologies:** Python, NumPy, Matplotlib
 
@@ -44,7 +89,7 @@ I am passionate about programming (especially Python), Machine Learning, Physics
 
 ---
 
-### 🔹 EuroMillions Strategy Simulation
+## 🔹 EuroMillions Strategy Simulation
 
 **Technologies:** Python
 
@@ -56,7 +101,7 @@ I am passionate about programming (especially Python), Machine Learning, Physics
 
 ---
 
-### 🔹 Robotic Grasping Analysis
+## 🔹 Robotic Grasping Analysis
 
 **Technologies:** Python, SymPy
 
@@ -68,7 +113,7 @@ I am passionate about programming (especially Python), Machine Learning, Physics
 
 ---
 
-### 🔹 Neural Networks from Scratch
+## 🔹 Neural Networks from Scratch
 
 **Technologies:** Python, NumPy
 
@@ -80,33 +125,32 @@ I am passionate about programming (especially Python), Machine Learning, Physics
 
 ---
 
-## 🧠 Key Skills Demonstrated
+# 🧠 Technical Areas
 
 * Python Programming
-* Machine Learning (Scikit-learn, basic neural networks)
-* Data Analysis & Processing
+* Robotics
+* CAD Modelling
+* 3D Printing & Rapid Prototyping
+* Machine Learning
 * Mathematical Modeling & Simulation
-* Problem Solving & Algorithm Design
+* Product Development
+* Problem Solving & Engineering Design
 
 ---
 
-## 📌 About Me
+# 📌 About Me
 
-I am particularly interested in:
+I enjoy building and understanding systems that combine software, physics, and hardware. My interests include robotics, UAV systems, product development, simulation, and intelligent systems.
 
-* Machine Learning and Artificial Intelligence
-* Automation and intelligent systems
-* Simulation and applied mathematics
-* Real-world problem solving using data and programming
+I particularly enjoy hands-on engineering projects involving prototyping, iterative design, and multidisciplinary problem solving.
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 * 📧 Email: [jpgs.joaosilva@gmail.com](mailto:jpgs.joaosilva@gmail.com)
 * 🔗 LinkedIn: https://www.linkedin.com/in/joao-pedro-silva-1737471a9
 
----
 
 ⭐ Feel free to explore the projects and reach out!
 
