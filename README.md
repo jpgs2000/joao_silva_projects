@@ -24,11 +24,11 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 #### Printed Protective Cover
 
-#### PLA
+#### - PLA
 
 ![Printed Part - PLA 1](3D_printing_projects/Headlight_cover/Images/PLA_1.jpg) ![Printed Part - PLA 2](3D_printing_projects/Headlight_cover/Images/PLA_2.jpg)
 
-#### PETG
+#### - PETG
 
 ![Printed Part - PETG 1](3D_printing_projects/Headlight_cover/Images/PETG_1.jpg) ![Printed Part - PETG 2](3D_printing_projects/Headlight_cover/Images/PETG_2.jpg)
 
@@ -50,11 +50,11 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 #### CAD Model
 
-#### Blender
+#### - Blender
 
 ![Blender Model](3D_printing_projects/Jewelry_box/Images/caixa_blender.png) ![Blender Model](3D_printing_projects/Jewelry_box/Images/tampa_blender.png)
 
-#### Solidworks
+#### - Solidworks
 
 ![Solidworks Model](3D_printing_projects/Jewelry_box/Images/caixa_solidworks_assembly.png) ![Solidworks Model](3D_printing_projects/Jewelry_box/Images/caixa_solidworks.png) ![Solidworks Model](3D_printing_projects/Jewelry_box/Images/tampa_solidworks.png)
 
