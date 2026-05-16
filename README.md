@@ -12,8 +12,7 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 **Technologies:** SOLIDWORKS, 3D Printing (PLA / PETG)
 
-* Designed a protective cover for a jeep headlight using SOLIDWORKS
-* Developed the geometry considering fitting constraints and outdoor usage
+* Designed a protective cover for a headlight using SOLIDWORKS
 * Printed and tested prototypes using both PLA and PETG materials
 * Explored material differences regarding strength and durability
 
