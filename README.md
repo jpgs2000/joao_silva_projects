@@ -22,11 +22,11 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 ### PLA
 
-![Printed Part - PLA 1](3D_printing_projects/Headlight_cover/Images/PLA_1.jpeg) ![Printed Part - PLA 2](3D_printing_projects/Headlight_cover/Images/PLA_2.jpeg)
+![Printed Part - PLA 1](3D_printing_projects/Headlight_cover/Images/PLA_1.jpg) ![Printed Part - PLA 2](3D_printing_projects/Headlight_cover/Images/PLA_2.jpg)
 
 ### PETG
 
-![Printed Part - PETG 1](3D_printing_projects/Headlight_cover/Images/PETG_1.jpeg) ![Printed Part - PETG 2](3D_printing_projects/Headlight_cover/Images/PETG_2.jpeg)
+![Printed Part - PETG 1](3D_printing_projects/Headlight_cover/Images/PETG_1.jpg) ![Printed Part - PETG 2](3D_printing_projects/Headlight_cover/Images/PETG_2.jpg)
 
 👉 Demonstrates: CAD modelling, rapid prototyping, mechanical design, iterative design process
 
