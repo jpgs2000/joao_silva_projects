@@ -8,7 +8,7 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 # 🚀 Projects Overview
 
-## 🔹 3D Printed Jeep Headlight Protective Cover
+## 🔹 3D Printed Headlight Protective Cover
 
 **Technologies:** SOLIDWORKS, 3D Printing (PLA / PETG)
 
@@ -18,13 +18,15 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 ### 📷 Project Images
 
-<!-- Add SOLIDWORKS screenshots here -->
+![CAD Model](3D printing/Headlight cover/Images/CAD Model.png)
 
-![CAD Model](images/jeep_cover_cad.png)
+### PLA
 
-<!-- Add printed prototype photos here -->
+![Printed Part - PLA 1](3D printing/Headlight cover/Images/PLA 1.jpeg) ![Printed Part - PLA 2](3D printing/Headlight cover/Images/PLA 2.jpeg)
 
-![Printed Part](images/jeep_cover_print.jpg)
+### PETG
+
+![Printed Part - PETG 1](3D printing/Headlight cover/Images/PLA 1.jpeg) ![Printed Part - PETG 2](3D printing/Headlight cover/Images/PETG 2.jpeg)
 
 👉 Demonstrates: CAD modelling, rapid prototyping, mechanical design, iterative design process
 
