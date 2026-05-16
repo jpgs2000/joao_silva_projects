@@ -38,9 +38,9 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 ## 🔹 3D Printed Jewelry Box
 
-**Technologies:** Blender, 3D Printing
+**Technologies:** Blender, 3D Printing, Solidworks
 
-* Designed a custom jewelry storage box using Blender to explore a different 3D modelling workflow
+* Designed a custom jewelry storage box using Blender and Solidworks to explore a different 3D modelling workflow
 * Developed the model considering printability and assembly dimensions
 * Manufactured prototypes using a personal 3D printer
 
@@ -48,9 +48,16 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 <!-- Add Blender screenshots/renders here -->
 
-#### Blender Model
+#### CAD Model
+
+#### Blender
 
 ![Blender Model](3D_printing_projects/Jewelry_box/Images/caixa_blender.png) ![Blender Model](3D_printing_projects/Jewelry_box/Images/tampa_blender.png)
+
+#### Solidworks
+
+![Solidworks Model](3D_printing_projects/Jewelry_box/Images/caixa_solidworks_assembly.png) ![Solidworks Model](3D_printing_projects/Jewelry_box/Images/caixa_solidworks.png) ![Solidworks Model](3D_printing_projects/Jewelry_box/Images/tampa_solidworks.png)
+
 
 <!-- Add printed prototype photos here -->
 
