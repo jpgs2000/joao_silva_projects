@@ -18,13 +18,17 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 ### 📷 Project Images
 
+#### CAD Model
+
 ![CAD Model](3D_printing_projects/Headlight_cover/Images/CAD_Model.png)
 
-### PLA
+#### Printed Protective Cover
+
+#### PLA
 
 ![Printed Part - PLA 1](3D_printing_projects/Headlight_cover/Images/PLA_1.jpg) ![Printed Part - PLA 2](3D_printing_projects/Headlight_cover/Images/PLA_2.jpg)
 
-### PETG
+#### PETG
 
 ![Printed Part - PETG 1](3D_printing_projects/Headlight_cover/Images/PETG_1.jpg) ![Printed Part - PETG 2](3D_printing_projects/Headlight_cover/Images/PETG_2.jpg)
 
@@ -44,11 +48,15 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 <!-- Add Blender screenshots/renders here -->
 
-![Blender Model](images/jewelry_box_blender.png)
+#### Blender Model
+
+![Blender Model](3D_printing_projects/Jewelry_box/Images/caixa_blender.png) ![Blender Model](3D_printing_projects/Jewelry_box/Images/tampa_blender.png)
 
 <!-- Add printed prototype photos here -->
 
-![Printed Jewelry Box](images/jewelry_box_print.jpg)
+#### Printed Jewelry Box
+
+![Printed Jewelry Box 1](3D_printing_projects/Jewelry_box/Images/caixa_blender.png) ![Printed Jewelry Box 2](3D_printing_projects/Jewelry_box/Images/tampa_blender.png)
 
 👉 Demonstrates: 3D modelling, creativity, prototyping, adaptability to new design tools
 
