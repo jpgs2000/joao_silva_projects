@@ -61,10 +61,6 @@ I am passionate about robotics, programming, product development, 3D design, and
 
 <!-- Add printed prototype photos here -->
 
-#### Printed Jewelry Box
-
-![Printed Jewelry Box 1](3D_printing_projects/Jewelry_box/Images/caixa_blender.png) ![Printed Jewelry Box 2](3D_printing_projects/Jewelry_box/Images/tampa_blender.png)
-
 👉 Demonstrates: 3D modelling, creativity, prototyping, adaptability to new design tools
 
 ---
